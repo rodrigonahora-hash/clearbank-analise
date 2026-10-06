@@ -59,3 +59,7 @@ Uma linha é descartada (sem interromper o processamento) quando tem:
 - `valor` não numérico ou menor ou igual a zero.
 
 Uma transação é **suspeita** quando o valor é maior que `LIMITE_SUSPEITO = 10000.00`.
+
+## Uso de IA
+
+Este projeto foi desenvolvido com apoio do assistente de IA **Claude Code** (Anthropic), utilizado no planejamento, na implementação e nos testes, sob orientação do autor. Cada etapa foi proposta, revisada e aprovada pelo autor antes de seguir para a próxima, e todo o código foi revisado e compreendido por ele. A execução final do notebook foi feita pelo autor no Google Colab.
